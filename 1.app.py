@@ -1,9 +1,4 @@
-# print('hd')
-
-name = input("name: ")
-# print('hello ' + name)
-print(f"hello {name}")
-
+print('hd')
 # if
 # n = input("val: ")
 # if n > 0:
